@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "react-native-x-utils": "^1.2.0"
+  },
+  "name": "react-native-currency",
+  "description": "React Native 价格、货币表示，因为像商城项目经常用到价格，干脆封装一个算了。",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChenqiaoStation/react-native-currency.git"
+  },
+  "keywords": [
+    "react-native",
+    "price",
+    "currency",
+    "react-native-price",
+    "react-native-currency"
+  ],
+  "author": "net.cctv3.i@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenqiaoStation/react-native-currency/issues"
+  },
+  "homepage": "https://github.com/ChenqiaoStation/react-native-currency#readme"
+}
